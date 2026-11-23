@@ -1,8 +1,16 @@
-const CACHE_NAME = 'meo-con-ielts-v1';
+const CACHE_NAME = 'meo-con-ielts-perry-v2';
 
 self.addEventListener('install', (event) => {
   event.waitUntil(
-    caches.open(CACHE_NAME).then((cache) => cache.addAll(['./', './index.html', './manifest.webmanifest', './icon.svg']))
+    caches.open(CACHE_NAME).then((cache) =>
+      cache.addAll([
+        './',
+        './index.html',
+        './manifest.webmanifest',
+        './perry-mascot.webp',
+        './perry-icon.png',
+      ])
+    )
   );
   self.skipWaiting();
 });
