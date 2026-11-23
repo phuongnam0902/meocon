@@ -1,7 +1,7 @@
 // Offline cache. Navigations: network first (so updates arrive), cache fallback.
 // Static assets (hashed by Vite): cache first. Bump VERSION to drop old caches.
-const VERSION = 'meocon-v2';
-const SHELL = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './perry-mascot.webp'];
+const VERSION = 'meocon-v3';
+const SHELL = ['./', './index.html', './manifest.webmanifest', './icon.svg'];
 
 self.addEventListener('install', (event) => {
   event.waitUntil(caches.open(VERSION).then((c) => c.addAll(SHELL)));
