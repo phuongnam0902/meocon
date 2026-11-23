@@ -1,11 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
-  <rect width="128" height="128" rx="32" fill="#58CC02"/>
-  <rect y="114" width="128" height="14" rx="7" fill="#46A302"/>
-  <polygon points="30,52 38,24 58,42" fill="#FFF"/>
-  <polygon points="98,52 90,24 70,42" fill="#FFF"/>
-  <circle cx="64" cy="68" r="34" fill="#FFF"/>
-  <circle cx="51" cy="64" r="5" fill="#1E293B"/>
-  <circle cx="77" cy="64" r="5" fill="#1E293B"/>
-  <polygon points="60,73 68,73 64,78" fill="#FF9600"/>
-  <path d="M55 82 Q64 90 73 82" stroke="#1E293B" stroke-width="4" fill="none" stroke-linecap="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <rect width="100" height="100" rx="22" fill="#f7f3ea"/>
+  <g stroke="#1f2a37" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M22 44 L28 16 L44 34 Z" fill="#e9a35b"/>
+    <path d="M78 44 L72 16 L56 34 Z" fill="#e9a35b"/>
+    <ellipse cx="50" cy="58" rx="32" ry="28" fill="#e9a35b"/>
+    <path d="M50 31 L50 41 M41 33 L43 41 M59 33 L57 41" stroke="#c97c34" stroke-width="3" fill="none"/>
+    <circle cx="38" cy="55" r="4" fill="#1f2a37" stroke="none"/>
+    <circle cx="62" cy="55" r="4" fill="#1f2a37" stroke="none"/>
+    <path d="M47 62 L53 62 L50 65 Z" fill="#1f2a37"/>
+    <path d="M44 69 Q50 73 56 69" fill="none"/>
+  </g>
 </svg>
