@@ -1,0 +1,17 @@
+{
+  "name": "Meo Con IELTS — Học IELTS Như Chơi Game",
+  "short_name": "Meo Con IELTS",
+  "description": "Ứng dụng học tiếng Anh chuẩn IELTS Band 4.0 đến 7.5+ kiểu chơi game, 100% không AI, hỗ trợ offline.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#F4F7FB",
+  "theme_color": "#58CC02",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
