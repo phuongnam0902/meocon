@@ -1,20 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-  <rect width="100" height="100" rx="22" fill="#f7f3ea"/>
-  <g transform="translate(5 3) scale(0.9)" stroke="#2a1f19" stroke-linecap="round" stroke-linejoin="round">
-    <ellipse cx="50" cy="54" rx="38" ry="35" fill="#a0714f" stroke-width="2.5"/>
-    <path d="M26 30 Q30 14 46 16 Q50 8 58 15 Q72 12 75 27 Q66 22 61 27 Q57 20 50 26 Q44 19 38 27 Q33 23 26 30 Z" fill="#4a3224" stroke-width="2"/>
-    <ellipse cx="20" cy="64" rx="5" ry="3" fill="#f0a49c" stroke="none"/>
-    <ellipse cx="80" cy="64" rx="5" ry="3" fill="#f0a49c" stroke="none"/>
-    <circle cx="36" cy="52" r="6" fill="#2a1f19" stroke="none"/>
-    <circle cx="64" cy="52" r="6" fill="#2a1f19" stroke="none"/>
-    <circle cx="34" cy="50" r="2" fill="#f4fbfc" stroke="none"/>
-    <circle cx="62" cy="50" r="2" fill="#f4fbfc" stroke="none"/>
-    <circle cx="36" cy="52" r="11" fill="#f4fbfc" fill-opacity="0.25" stroke-width="3"/>
-    <circle cx="64" cy="52" r="11" fill="#f4fbfc" fill-opacity="0.25" stroke-width="3"/>
-    <path d="M47 51 Q50 48 53 51" fill="none" stroke-width="3"/>
-    <path d="M28 70 Q50 62 72 70 Q74 82 50 85 Q26 82 28 70 Z" fill="#6d7280" stroke-width="2.5"/>
-    <circle cx="45" cy="70" r="1.6" fill="#2a1f19" stroke="none"/>
-    <circle cx="55" cy="70" r="1.6" fill="#2a1f19" stroke="none"/>
-    <path d="M42 78 Q50 80 58 78" fill="none" stroke="#3a3f4a" stroke-width="2.2"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <rect width="128" height="128" rx="32" fill="#58CC02"/>
+  <rect y="114" width="128" height="14" rx="7" fill="#46A302"/>
+  <polygon points="30,52 38,24 58,42" fill="#FFF"/>
+  <polygon points="98,52 90,24 70,42" fill="#FFF"/>
+  <circle cx="64" cy="68" r="34" fill="#FFF"/>
+  <circle cx="51" cy="64" r="5" fill="#1E293B"/>
+  <circle cx="77" cy="64" r="5" fill="#1E293B"/>
+  <polygon points="60,73 68,73 64,78" fill="#FF9600"/>
+  <path d="M55 82 Q64 90 73 82" stroke="#1E293B" stroke-width="4" fill="none" stroke-linecap="round"/>
 </svg>

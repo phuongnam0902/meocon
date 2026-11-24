@@ -1,14 +1,19 @@
-{
-  "name": "Mèo Con English",
-  "short_name": "Mèo Con",
-  "description": "Luyện IELTS band 4.0 đến 7.5 theo lộ trình ải, ôn từ SM-2, chạy offline.",
-  "lang": "vi",
+﻿{
+  "name": "Học Cùng Perry",
+  "short_name": "Học Cùng Perry",
+  "description": "Học tiếng Anh chuẩn IELTS Band 4.0 đến 7.5+ như chơi game cùng Perry — SM-2 Flashcards, Nhật ký viết, Offline hoàn toàn.",
   "start_url": "./",
-  "scope": "./",
   "display": "standalone",
-  "background_color": "#f7f3ea",
-  "theme_color": "#f7f3ea",
+  "background_color": "#F4F7FB",
+  "theme_color": "#58CC02",
   "icons": [
-    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+    {
+      "src": "./perry-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
   ]
 }
+
+
